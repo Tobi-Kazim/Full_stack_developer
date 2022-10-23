@@ -1,0 +1,11 @@
+Who is a Fullstack developer?
+A fullstack developer is someone who is skilled in both front end and backend web development. 
+By front end development, i mean the area of web development where the user gets to see on a website and interact with. It is developed using HTML, CSS and JAVASCRIPT.
+while Back end development is the area where the user does not get to see. It is the server-side area of the website. It is developed using SQL, PYTHON, JAVA amongst many other languages.
+Fullstack developers are skilled at the planning, designing, development, deployment and testing of web applications using an array of languages and tools.
+
+Some of the tools full stack developers use include:
+*A Computer
+*A text editor
+*Google
+*Stack Overflow and online resources.
